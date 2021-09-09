@@ -1,0 +1,12 @@
+{% extends 'basico.html' %}
+{% block contenido %}
+
+<h3>Intruzca sus DATOS: </h3>
+<form action="{{ url_for('gracias') }}">
+    Nombre : <input type="text" name= 'nombre'>
+    <br> <!--Salto de linea-->
+    Apellidos : <input type="text" name= 'apellidos '>
+    <br> <!--Salto de linea-->
+    Apellidos : <input type="submit" value= 'Enviar Datos'>
+</form>
+{% endblock %}

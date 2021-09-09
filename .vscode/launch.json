@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FormularioSQLBaseDatos",
+            "request": "launch",
+            "mainClass": "AlumnosUniversidad.src.App.FormularioSQLBaseDatos",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App.src.app.App",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conexion",
+            "request": "launch",
+            "mainClass": "App.src.app.Conexion",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch nominaInterface",
+            "request": "launch",
+            "mainClass": "nominaInterface",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch VentanaTriangulo",
+            "request": "launch",
+            "mainClass": "VentanaTriangulo",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prueba",
+            "request": "launch",
+            "mainClass": "Prueba",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfacesGrficasSEMANA4",
+            "request": "launch",
+            "mainClass": "InterfacesGrficasSEMANA4",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicios",
+            "request": "launch",
+            "mainClass": "Ejercicios",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej1PagoEmpleados",
+            "request": "launch",
+            "mainClass": "Ej1PagoEmpleados",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Persona",
+            "request": "launch",
+            "mainClass": "POO_PERSONAS.Persona",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch testCompararPersonas",
+            "request": "launch",
+            "mainClass": "POO_PERSONAS.testCompararPersonas",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaBicicletas",
+            "request": "launch",
+            "mainClass": "POO_Bicicletas.PruebaBicicletas",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch PruebaBicicletas",
+            "request": "launch",
+            "mainClass": "POO.PruebaBicicletas",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Resultados",
+            "request": "launch",
+            "mainClass": "Resultados",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4s2",
+            "request": "launch",
+            "mainClass": "Ejercicio4s2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Semana3",
+            "request": "launch",
+            "mainClass": "Semana3",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch OOP_UML",
+            "request": "launch",
+            "mainClass": "OOP_UML",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6s2",
+            "request": "launch",
+            "mainClass": "Ejercicio6s2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej6",
+            "request": "launch",
+            "mainClass": "Ej6",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch E6",
+            "request": "launch",
+            "mainClass": "E6",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch E5",
+            "request": "launch",
+            "mainClass": "E5",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch soluciones",
+            "request": "launch",
+            "mainClass": "soluciones",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej4",
+            "request": "launch",
+            "mainClass": "Ej4",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4S2",
+            "request": "launch",
+            "mainClass": "Ejercicio4S2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch E4",
+            "request": "launch",
+            "mainClass": "E4",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3S2",
+            "request": "launch",
+            "mainClass": "Ejercicio3S2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2S2",
+            "request": "launch",
+            "mainClass": "Ejercicio2S2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch EJercicio2",
+            "request": "launch",
+            "mainClass": "EJercicio2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListaa",
+            "request": "launch",
+            "mainClass": "ArrayListaa",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayList",
+            "request": "launch",
+            "mainClass": "ArrayList",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch E2",
+            "request": "launch",
+            "mainClass": "E2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputComoVentana",
+            "request": "launch",
+            "mainClass": "InputComoVentana",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solucion",
+            "request": "launch",
+            "mainClass": "Solucion",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo2Ejercicio2Semana2",
+            "request": "launch",
+            "mainClass": "Ciclo2Ejercicio2Semana2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo2Ejercicio1Semana2",
+            "request": "launch",
+            "mainClass": "Ciclo2Ejercicio1Semana2",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ciclo",
+            "request": "launch",
+            "mainClass": "Ciclo",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringss",
+            "request": "launch",
+            "mainClass": "Stringss",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEjercicio",
+            "request": "launch",
+            "mainClass": "ForEjercicio",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch MiPrimerEjercicio",
+            "request": "launch",
+            "mainClass": "MiPrimerEjercicio",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForInZipIJK",
+            "request": "launch",
+            "mainClass": "ForInZipIJK",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArreglosListas",
+            "request": "launch",
+            "mainClass": "ArreglosListas",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arreglos",
+            "request": "launch",
+            "mainClass": "Arreglos",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompracionStrings",
+            "request": "launch",
+            "mainClass": "CompracionStrings",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondicionalSwitch",
+            "request": "launch",
+            "mainClass": "CondicionalSwitch",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiferenciasEntrePrints",
+            "request": "launch",
+            "mainClass": "DiferenciasEntrePrints",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch HolaMundo",
+            "request": "launch",
+            "mainClass": "HolaMundo",
+            "projectName": "MisionTic_8d178304"
+        },
+        {
+            "type": "java",
+            "name": "Launch IngresoPorInput",
+            "request": "launch",
+            "mainClass": "IngresoPorInput",
+            "projectName": "MisionTic_8d178304"
+        }
+    ]
+}

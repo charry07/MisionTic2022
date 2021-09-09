@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro De Usuario Nuevo</title>
+</head>
+<H1>Registro de Nuevo Usuario</H1>
+<body>
+    <form action="Resultado.html" method="post">
+        Nombres<input type="text" name="Nombres" placeholder="Nombre" >
+        Apellidos <input type="text" name="Apellidos" placeholder="Apellidos">
+        <p></p><!--Esto para hacer salto de linea-->
+        Correo<input type="email" name="Email" placeholder="Email" >
+        Contrase;a<input type="password" name="Password" placeholder="Password">
+    <h4>Eres Mayor de Edad ?</h4>
+        <p></p> <!--Esto para hacer salto de linea-->
+        Si <input type="radio" name="Mayordeedad" value="s">
+        No <input type="radio" name="Mayordeedad" value="n">
+    <h4>Selecciona Tipo de Suscripcion</h4> 
+        <p></p><!--Esto para hacer salto de linea-->
+        <select name="Suscripcion" id="">
+            <option value="d">Diaria</option>
+            <option value="m">Mensual</option>
+            <option value="a">Anual</option>
+        </select>
+        <h3>Slecciona el Color</h3>
+        <input type="color" name="Color" id="">
+        <p></p><!--Esto para hacer salto de linea-->
+        <input type="submit" value="Enviar">
+
+        </form>
+    
+</body>
+</html>

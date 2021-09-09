@@ -1,0 +1,17 @@
+{% extends 'basico.html' %}
+{% block contenido %}
+
+<h2>Introduce el nombre a validar</h3>
+<h4>Debe  cumplir los sguientes requisitos</h4>
+<ul>
+    <li>Debe empezar con letra Mayuscula</li>
+    <li>Debe contener alguna letra Minuscula</li>
+    <li>Debe contener algun numero</li>
+</ul>
+<form action="{{  url_for('res.html')}}">
+    Nombre = <input type="text" name= 'nombre'>
+    <br><br>
+    <input type="submit" value="validar">
+</form>
+
+{% endblock %}
