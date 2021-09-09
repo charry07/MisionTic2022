@@ -2,5 +2,6 @@ Mi Nombre es Anderson Charry Narajo
 Tengo 25 Años y soy de Guarne Antioquia(COLOMBIA)
 Estudiante de la UdeA
 Y tambien de programacion.
-Hoy empezo el ciclo 3 de MisionTic.
+Hoy empezo el ciclo 3 de MisionTic y Tambien Empeze Un Curso desde Cero en Git % GitHub.
+
 
