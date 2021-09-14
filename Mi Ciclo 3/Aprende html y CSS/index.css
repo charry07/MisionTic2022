@@ -1,0 +1,21 @@
+#mih3 {
+    color: rgb(15, 88, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    /*font-family: sans-serif; (ESTO ES UN COMENTARIO) */
+}
+
+#division {
+    background-color: aquamarine;
+}
+
+#primerparrafo{
+    background-color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parrafos{
+    background-color: darkgrey;
+}
