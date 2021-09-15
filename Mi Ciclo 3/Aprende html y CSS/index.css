@@ -1,5 +1,5 @@
 #mih3 {
-    color: rgb(15, 88, 0);
+    color:rgb(255, 0, 0);
     font-family: sans-serif;
     font-weight: bold;
     font-style: italic;
@@ -8,7 +8,7 @@
 }
 
 #division {
-    background-color: aquamarine;
+    background-color: rgb(4, 136, 92);
 }
 
 #primerparrafo{
@@ -18,4 +18,8 @@
 
 #parrafos{
     background-color: darkgrey;
+}
+
+#divisiontitulos {
+    background-color:paleturquoise;
 }
