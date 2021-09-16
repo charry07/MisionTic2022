@@ -14,12 +14,16 @@
 #primerparrafo{
     background-color:gray;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
 }
 
 #parrafos{
-    background-color: darkgrey;
+    background-color: rgb(155, 148, 148);
+    border: 20%;
+    text-align: center;
 }
 
 #divisiontitulos {
-    background-color:paleturquoise;
+    background-color:rgb(43, 104, 104);
+    border-radius: 10%;
 }
