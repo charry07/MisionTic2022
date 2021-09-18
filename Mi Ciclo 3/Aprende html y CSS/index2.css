@@ -1,3 +1,28 @@
+#bloque1,#bloque2,#bloque3 { 
+    border-radius: 20px solid rgb(1, 9, 12);
+}
+.fondoRojo{
+    background-color: red;
+}
+.fondoAzul{
+    background-color: blue;
+}
+#bloque1{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#bloque2{
+    font-style: italic;
+    border-radius: 5px solid black;
+}
+#bloque3{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px gray;
+}
+
+
+
 #body{
     background-color: rgb(94, 97, 89);
 }
