@@ -1,0 +1,35 @@
+#body{
+    background-color: rgb(94, 97, 89);
+}
+
+pre {
+    text-align: center;
+}
+
+#fondoImagen {
+    background-image: url("https://cdn.pixabay.com/photo/2021/08/04/03/06/hanoi-6520941_960_720.jpg");
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: 200%;
+}
+
+#Tabla{
+    background-color: rgb(5, 230, 230);
+}
+
+#f1200 {
+    background-color: gray;
+    border: 10px solid black
+}
+
+#url {
+    background-color: rgb(207, 123, 123);
+    border: 5px solid black;
+    border-radius: 10%;
+    padding: 30px
+    
+}
+
+#referenciaimagenhtml{
+    border: 10%;
+}
