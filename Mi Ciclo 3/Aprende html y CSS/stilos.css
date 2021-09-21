@@ -1,0 +1,39 @@
+div {
+  color: red;
+  font-size: 30px;
+}
+
+div h3 {
+  color: #d5e035;
+  font-size: 6em;
+}
+
+h3 {
+  color: #782d55;
+  font-size: 3em;
+}
+
+div {
+  color: red;
+  font-size: 20px;
+}
+
+h3 {
+  color: color-titulo;
+  font-size: 60px;
+}
+
+pre {
+  font-family: "arial","sans-serif","times-serif";
+  font-size: small;
+  font-weight: bold;
+  font-style: italic;
+}
+
+p {
+  font-family: "arial","sans-serif","times-serif";
+  font-size: small;
+  font-weight: bold;
+  font-style: italic;
+}
+/*# sourceMappingURL=stilos.css.map */

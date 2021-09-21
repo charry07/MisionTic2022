@@ -1,0 +1,56 @@
+$color-titulo: rgb(120,45,85);
+$color-texto: red;
+$color-fondo: blue;
+$color-borde: #f4f4f4;
+
+@function multiplicar_tamanio($tamanio_inicial, $veces){
+  @return $tamanio_inicial * $veces;
+}
+
+@function duplicar_tamanio($tamanio_inicial){
+  @return multiplicar_tamanio($tamanio_inicial, 2);
+}
+
+@mixin formato-texto($color-texto, $tamanio_inicial: 20px, $veces: 2) {
+  color: $color-texto;
+  font-size: multiplicar_tamanio($tamanio_inicial, $veces);
+}
+
+div{
+  @include formato-texto($color-texto, 15px, 2);
+  h3{
+    @include formato-texto(#d5e035, 1em, 6);
+  }
+}
+
+h3{
+  @include formato-texto($color-titulo, 1em, 3);
+}
+
+
+@function duplicarFuente($tInicial){
+    @return $tInicial*2
+}
+@mixin formatoTexto {
+    font-family: "arial","sans-serif","times-serif";
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+div {
+    color: $color-texto;
+    font-size: duplicarFuente(10px);
+}
+
+h3{
+    color: color-titulo;
+    font-size: duplicarFuente(30px);
+}
+pre{
+    @include formatoTexto;
+}
+
+p{
+    @include formatoTexto;
+}
